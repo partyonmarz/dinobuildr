@@ -61,16 +61,6 @@
             "type": "shell"
         },
         {
-            "item": "Install Code42",
-            "version": "",
-            "url": "https://download.code42.com/installs/agent/cloud/8.8.2/143/install/Code42_8.8.2_1525200006882_143_Mac-x86-64.dmg",
-            "filename": "",
-            "dmg-installer": "Install Code42.pkg",
-            "dmg-advanced": "",
-            "hash": "655cde888e80f7b45e439630f32adb90031fffeae4ff25d110f2c661d318ed58",
-            "type": "dmg"
-        },
-        {
             "item": "Install Firefox",
             "version": "latest",
             "url": "https://download.mozilla.org/?product=firefox-${version}-SSL&os=osx&lang=en-US",
@@ -87,7 +77,7 @@
             "filename": "",
             "dmg-installer": "",
             "dmg-advanced": "",
-            "hash": "53a9478bee3db5f693e7c909bf61866d91b41917b3ac3a5a2058c8ee24984c75",
+            "hash": "e714487b93b01721a1a86641141d47430c6a683f5006566ad3c602f099dc8236",
             "type": "shell"
         },
         {
@@ -157,17 +147,7 @@
             "filename": "",
             "dmg-installer": "",
             "dmg-advanced": "",
-            "hash": "45e7302180daeb1f902051f61fe7a97076d3f37a1b270d24fd6babf1092cab16",
-            "type": "shell"
-        },
-        {
-            "item": "Update macOS",
-            "version": "",
-            "url": "resources/update-macos.sh",
-            "filename": "",
-            "dmg-installer": "",
-            "dmg-advanced": "",
-            "hash": "ce9ab785e5e6818c47c2371385668000c8b267d1bdc31ecbc28bf7f6a01583b9",
+            "hash": "71fb9f267c4aba7092fcbb7318606c3fe7b6560da468ac32eafaf301dbdd13e7",
             "type": "shell"
         },
         {
